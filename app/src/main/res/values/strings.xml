@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="test">XXX</string>
+    <string name="java">Hello java</string>
+    <string name="World">Hello World</string>
+    <string name="Android">Hello Android</string>
+    <string name="Kotlin">Hello Kotlin</string>
+</resources>

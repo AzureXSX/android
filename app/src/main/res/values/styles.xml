@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="borderWidth">2dp</item>
+
+    </style>
+</resources>
